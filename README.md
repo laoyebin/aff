@@ -8,9 +8,9 @@
   3. web   网络常用图标类
   4. logo  网站logo
   5. forex 外汇广告图片
-        5.1. easyforex   Easy-Forex的广告图片
+        - easyforex   Easy-Forex的广告图片
   6. yhmfbcom    优惠码发布网站的图片
-        6.1. adv   广告图片
+        - adv    广告图片
 
 ### js
   1. adv   广告用JS代码
