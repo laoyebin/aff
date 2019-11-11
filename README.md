@@ -2,17 +2,19 @@
 
 ## 文件预览网址：[https://gh.trk.gs](https://gh.trk.gs)
 
-**自建CDN**        https://cdn.080321.xyz/
+​    **CNAME**          https://gh.trk.gs
 
-**jsdelivr**          https://cdn.jsdelivr.net/gh/laoyebin/files@master/
+​    **自建CDN**        https://cdn.080321.xyz/
 
-**jsdelivr**          https://cdn.jsdelivr.net/gh/affcn/files@master/
+​    **jsdelivr**          https://cdn.jsdelivr.net/gh/laoyebin/files@master/
 
-**腾讯国内**         https://dev.tencent.com/u/laoyebin/p/files/git/raw/master/
+​    **jsdelivr**          https://cdn.jsdelivr.net/gh/affcn/files@master/
 
-**腾讯国内**         https://dev.tencent.com/u/affcn/p/files/git/raw/master/
+​    **腾讯国内**         https://dev.tencent.com/u/laoyebin/p/files/git/raw/master/
 
-**腾讯HK**           https://dev.trk.gs/
+​    **腾讯国内**         https://dev.tencent.com/u/affcn/p/files/git/raw/master/
+
+​    **腾讯HK**           https://dev.trk.gs/
 
 ## 文件夹结构
 
