@@ -1,35 +1,32 @@
 # 我的网络常用文件库
 
+## 文件预览网址：[https://gh.trk.gs](https://gh.trk.gs)
+
+自建CDN		https://cdn.080321.xyz/
+
+jsdelivr			https://cdn.jsdelivr.net/gh/laoyebin/files@master/
+
+腾讯国内		https://dev.tencent.com/u/laoyebin/p/files/git/raw/master/
+
+腾讯HK			https://dev.trk.gs/
+
 ## 文件夹结构
 
-### img
-  1. wx    微信文件
-  2. zfb   支付宝文件
-  3. web   网络常用图标类
-  4. logo  网站logo
-  5. forex 外汇广告图片
-        - easyforex   Easy-Forex的广告图片
-  6. yhmfbcom    优惠码发布网站的图片
-        - adv    广告图片
-
 ```
-img文件目录
-├─wx    微信文件
-├─zfb   支付宝文件
-├─web   网络常用图标类
-├─logo  网站logo
-├─forex 外汇广告图片
-│  ├─easyforex   Easy-Forex的广告图片
-├─yhmfbcom    优惠码发布网站的图片
-│  ├─adv    广告图片
+files
+├─img
+	├─wx    			微信文件
+	├─zfb   			支付宝文件
+	├─web   			网络常用图标类
+	├─logo  			网站logo
+	├─forex 			外汇广告图片
+		└─easyforex		Easy-Forex的广告图片
+	└─yhmfbcom			优惠码发布网站的图片
+		└─adv			广告图片
+├─js
+	└─adv				广告用JS代码
+├─css
+├─html
+├─CNAME					gh.trk.gs
 ```
 
-
-
-### js
-
-  1. adv   广告用JS代码
-
-### css
-
-### html
