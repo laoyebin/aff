@@ -12,10 +12,6 @@
 
 **腾讯国内**         https://dev.tencent.com/u/laoyebin/p/files/git/raw/master/
 
-**腾讯国内**         https://dev.tencent.com/u/affcn/p/files/git/raw/master/
-
-**腾讯HK**           https://dev.trk.gs/
-
 ## 文件夹结构：
 
 ```
@@ -25,10 +21,12 @@ files
 │  ├─zfb              支付宝文件
 │  ├─web              网络常用图标类
 │  ├─logo             网站logo
-│  ├─forex            外汇广告图片
-│  │  └─easyforex        Easy-Forex的广告图片
-│  └─yhmfbcom         优惠码发布网站的图片
-│     └─adv              广告图片
+│  └─adv              广告图片
+│     ├─forex            外汇广告图片
+│     │   └─easyforex        Easy-Forex的广告图片
+│     └─vps              VPS广告图片
+│        ├─money             广告商广告图片
+│        └─self              自制广告图片
 ├─js                //js文件
 │  └─adv               广告用JS代码
 ├─css               //css文件
