@@ -20,4 +20,4 @@ function showit(str, start, end) {
 
 var p = 9;
 var q = Math.floor(Math.random() * p + 1);
-showit("<a href=https://trk.gs/easyforex target=_blank><img src=https://dev.tencent.com/u/ziliaopub/p/files/git/raw/master/img/adv/forex/easyforex/728x90-" + q + ".gif  border=0></a>", "2019-8-8", "2020-12-31");
+showit("<a href=https://trk.gs/easyforex target=_blank><img src=https://cdn.jsdelivr.net/gh/laoyebin/files@master/img/adv/forex/easyforex/728x90-" + q + ".gif  border=0></a>", "2019-8-8", "2020-12-31");
