@@ -10,7 +10,7 @@
 
 **jsdelivr**          https://cdn.jsdelivr.net/gh/affcn/files@master/
 
-**腾讯国内**         https://dev.tencent.com/u/laoyebin/p/files/git/raw/master/
+**腾讯国内**         https://laoyebin.coding.net/p/files/d/files/git/raw/master/
 
 ## 文件夹结构：
 
