@@ -23,7 +23,9 @@ files
 │  ├─logo             网站logo
 │  └─adv              广告图片
 │     ├─forex            外汇广告图片
-│     │   └─easyforex        Easy-Forex的广告图片
+│     │ ├─easyforex 	Easy-Forex的广告图片
+│     │ └─exness        Exness的广告图片
+│     │ 
 │     └─vps              VPS广告图片
 │        ├─money             广告商广告图片
 │        └─self              自制广告图片
